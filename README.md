@@ -2,10 +2,16 @@ ReactionTestCheat
 
 A Python script that cheats the Human Benchmark reaction time test by auto-clicking when the screen turns green.
 
-- Setup
-**pip install pyautogui**
-- Usage
-**python mousetracking.py** or **run it in the ide**
+## Setup
+```
+pip install pyautogui
+```
+
+## Usage
+```
+python mousetracking.py
+```
+or run it in your IDE.
 
 Run the script, hover over the test area, and let it click for you.
 
